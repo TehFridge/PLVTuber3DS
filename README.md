@@ -1,18 +1,28 @@
-# Zdobywaj Żappsy™ prosto i unikalnie Żappka3DS
+[Discord 3(DS) Polska](http://discord.gg/Rxf9FR9DaS) | [Wesprzyj Mnie!](https://ko-fi.com/tehfridge)
 
-![dfgsdfgssdfg](https://github.com/user-attachments/assets/5b1f3040-feec-4fc8-9c78-f5d646f19fa9)
+# PLVtuber3DS 
+## Nikt nie pytał, i chyba nikt nie potrzebował lol
 
+<img width="400" height="480" alt="_04 08 25_02 50 57 709" src="https://github.com/user-attachments/assets/830194f4-50c0-4101-befd-0d3d9f3059ac" />
+
+
+## Controls'y
+
+(Tylko w Endless Mode) L/R - Strona (30 VTuberów) do Przodu/Tyłu 
+
+(Tylko w Endless Mode) DPad Lewo/Prawo - 10 VTuberów do Przodu/Tyłu
+
+A - Wybierz VTuber'a
+
+Góra/Dół - Scrolluj po VTuber'ach
+
+Select - Uruchom Endless Mode
 
 ## Credits
-Implementacja TOTP: [Dominik](https://github.com/domints) 
+"Art'y przy starcie apki": [Darksona](https://www.twitch.tv/darksona_), [Sansy](https://www.instagram.com/fedora_maniac/)
 
-UI/Graphic Design: [prycwrn](https://prycwrn.space/)
+BGM: [Dazzling (CASIOPEA - PHOTOGRAPHS)](https://www.youtube.com/watch?v=Ufvbtb5PzjU)
 
-BGM: [prycwrn](https://prycwrn.space/), [Ludwik Franke](https://soundcloud.com/ludwikfranke_crazy), [TehFridge](https://linktr.ee/tehfridge)
+Strona plvtuber.pl - [PLVTuber Team](https://plvtuber.pl/) ([Roshiroku](https://www.twitch.tv/roshiroku_) thx za pomoc przy endpointach)
 
-Dodatkowe grafiki ~~i wsparcie mentalne~~: [Reichisan](https://www.twitch.tv/reichisan)
 
-I podziękowania dla wszystkich Ambasadorów Żappka3DS za Beta Testing.
-
-## Notka Prawna (Polski)
-Ta aplikacja jest projektem open source napisaną w języku C, która korzysta z API aplikacji Żappka, należącej do Żabka Group S.A. Aplikacja została stworzona wyłącznie w celach edukacyjnych i nie jest powiązana z Żabka Group S.A. Twórca aplikacji nie jest w żaden sposób związany z Żabka Group S.A. i nie czerpie żadnych korzyści finansowych z tego projektu. Wszystkie znaki towarowe, nazwy handlowe i logotypy są własnością odpowiednich właścicieli. Użytkownicy korzystają z aplikacji na własne ryzyko.
